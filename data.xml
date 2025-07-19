@@ -1,0 +1,8 @@
+<data>
+  <student>
+    <id>1</id><name>Alice</name><age>20</age><grade>A</grade>
+  </student>
+  <student>
+    <id>2</id><name>Bob</name><age>21</age><grade>B</grade>
+  </student>
+</data>
